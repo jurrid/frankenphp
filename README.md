@@ -3,6 +3,7 @@
 Files Modified in the Laravel Project:
 
 - routes/console.php
+- routes/web.php
 - app/Console/Commands/ShowPhpBinary.php
 - app/Console/Commands/LoggingInspiringQuote.php
 - config/logging.php
