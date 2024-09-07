@@ -6,7 +6,7 @@ use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Foundation\Inspiring;
 
-class LogginInspiringQuote extends Command
+class LoggingInspiringQuote extends Command
 {
     /**
      * The name and signature of the console command.
